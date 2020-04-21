@@ -1,2 +1,5 @@
 # streaming_video_player
-hlsjs
+
+# yarn
+
+# chrome run index.html
